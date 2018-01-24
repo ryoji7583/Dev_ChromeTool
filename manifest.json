@@ -3,6 +3,7 @@
   "version": "1",
   "manifest_version": 2,
   "description": "This is toooooooool",
+  "permissions": ["tabs"],
   "icons": {
     "16" : "images/16.png",
     "48" : "images/48.png",
